@@ -1,0 +1,5 @@
+CMS HCAHPS Changelog 
+Filepath: "C:\Users\Brian\Documents\Excel\HCAHPS-Hospital.csv"
+
+1. Find & replace all instances of "Not Applicable" AND "Not Available" with blanks.
+2. Removed 4 "Footnotes" columns, unnecessary data.
